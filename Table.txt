@@ -1,0 +1,6 @@
+Some basic commands that are used in this repositry to create a table in postgres.
+
+CREATE TABLE USERDATA ();
+INSERT INTO TABLE USERDATA () VALUES ();
+UPDATE TABLE USERDATA SET USERNAME = 'MUHAMMAD FAIQ' WHERE ID = 1;
+DELETE FROM USERDATA WHERE ID = 1;
